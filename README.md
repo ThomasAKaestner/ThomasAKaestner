@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there👋
+#### I am Thomas, a 24 year old developer from Hamburg.
+My main focus is on full-stack development with the following technologies:
+#### - AWS :cloud:
+#### - PHP :elephant:
+#### - Vue.js :eyes:
 <!--
 **ThomasAKaestner/ThomasAKaestner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
