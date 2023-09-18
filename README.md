@@ -1,5 +1,5 @@
 ### Hi there👋
-#### I am Thomas, a 24 year old developer from Hamburg.
+#### I am Thomas, a 25 year old developer from Hamburg, Germany.
 My main focus is on backend development with the following technologies:
 #### - AWS :cloud:
 #### - PHP :elephant:
