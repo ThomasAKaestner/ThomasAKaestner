@@ -20,9 +20,6 @@ I'm a senior software developer from Germany, specializing in building exception
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-bitbucket-0A1A2F?style=flat&logo=bitbucket)
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime-0A1A2F?style=flat&logo=sublime-text&logoColor=orange)
 - ♾️ &nbsp;Devops:&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
   ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=flat&logo=linux&logoColor=white)
